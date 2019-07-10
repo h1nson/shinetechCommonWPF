@@ -1,0 +1,15 @@
+C:\Users\Moon\source\repos\WPFDemos\Data.Access\bin\Debug\Data.Access.dll.config
+C:\Users\Moon\source\repos\WPFDemos\Data.Access\bin\Debug\Data.Access.dll
+C:\Users\Moon\source\repos\WPFDemos\Data.Access\bin\Debug\Data.Access.pdb
+C:\Users\Moon\source\repos\WPFDemos\Data.Access\bin\Debug\EntityFramework.dll
+C:\Users\Moon\source\repos\WPFDemos\Data.Access\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Moon\source\repos\WPFDemos\Data.Access\bin\Debug\EntityFramework.xml
+C:\Users\Moon\source\repos\WPFDemos\Data.Access\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Moon\source\repos\WPFDemos\Data.Access\obj\Debug\Data.Access.csprojAssemblyReference.cache
+C:\Users\Moon\source\repos\WPFDemos\Data.Access\obj\Debug\Data.Access.csproj.CoreCompileInputs.cache
+C:\Users\Moon\source\repos\WPFDemos\Data.Access\obj\Debug\Data.Access.csproj.CopyComplete
+C:\Users\Moon\source\repos\WPFDemos\Data.Access\obj\Debug\Data.Access.dll
+C:\Users\Moon\source\repos\WPFDemos\Data.Access\obj\Debug\Data.Access.pdb
+C:\Users\Moon\source\repos\WPFDemos\Data.Access\bin\Debug\DataModel.dll
+C:\Users\Moon\source\repos\WPFDemos\Data.Access\bin\Debug\DataModel.pdb
+C:\Users\Moon\source\repos\WPFDemos\Data.Access\bin\Debug\DataModel.dll.config

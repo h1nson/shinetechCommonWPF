@@ -1,0 +1,12 @@
+C:\Users\Moon\source\repos\WPFDemos\Data\bin\Debug\Data.dll.config
+C:\Users\Moon\source\repos\WPFDemos\Data\bin\Debug\Data.dll
+C:\Users\Moon\source\repos\WPFDemos\Data\bin\Debug\Data.pdb
+C:\Users\Moon\source\repos\WPFDemos\Data\bin\Debug\EntityFramework.dll
+C:\Users\Moon\source\repos\WPFDemos\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Moon\source\repos\WPFDemos\Data\bin\Debug\EntityFramework.xml
+C:\Users\Moon\source\repos\WPFDemos\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Moon\source\repos\WPFDemos\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\Moon\source\repos\WPFDemos\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Moon\source\repos\WPFDemos\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\Moon\source\repos\WPFDemos\Data\obj\Debug\Data.dll
+C:\Users\Moon\source\repos\WPFDemos\Data\obj\Debug\Data.pdb
